@@ -1,0 +1,17 @@
+# 凭据与会话(绝不入库)
+secret.dat
+config.json
+edge-profile/
+
+# 运行产物
+bot.log
+stats-data.json
+stats.html
+
+# 逆向分析材料(含个人账号信息)
+research/
+
+# 系统杂项
+Thumbs.db
+Desktop.ini
+*.tmp
